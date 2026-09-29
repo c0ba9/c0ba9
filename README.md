@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Привет! Я Никита Липский
 
-<!--
-**c0ba9/c0ba9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Python Backend Developer** | Инженер по ИТ и управлению
 
-Here are some ideas to get you started:
+Начинающий Python-разработчик. Имею высшее инженерно-техническое образование.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Технологический стек
+
+- **Языки:** Python (ООП, Asyncio), SQL
+- **Веб & Бэкенд:** Django, FastAPI (в процессе), Aiogram
+- **Базы данных:** MySQL, PostgreSQL
+- **DevOps & Инструменты:** Docker, Docker Compose, Git, GitHub, DBeaver
+
+---
+
+### 🚀 Проекты в фокусе
+
+- **[Django Catalog Web App](./) (Django, MySQL, Docker)** — веб-сайт/каталог товаров с ORM, панелью администратора и адаптивным интерфейсом.
+- **[Telegram Retail Store Bot](./) (Python, Aiogram 3, MySQL, Docker)** — асинхронный бот-магазин с каталогом, корзиной, админкой и уведомлениями.
+
+---
+
+### 📬 Связь со мной
+
+- **Telegram:** [@c0ba9](https://t.me/c0ba9)
+- **Email:** [lipskiynikita09@gmail.com](mailto:lipskiynikita09@gmail.com)
+- **Локация:** Гомель, Беларусь (Удаленка / Гибрид / Офис)
