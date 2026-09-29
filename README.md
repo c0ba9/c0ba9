@@ -1,4 +1,4 @@
-# 👋 Привет! Я Никита Липский
+# Привет! Я Никита Липский
 
 **Python Backend Developer** | Инженер по ИТ и управлению
 
@@ -6,7 +6,7 @@
 
 ---
 
-### 🛠 Технологический стек
+### Технологический стек
 
 - **Языки:** Python (ООП, Asyncio), SQL
 - **Веб & Бэкенд:** Django, FastAPI (в процессе), Aiogram
@@ -15,14 +15,14 @@
 
 ---
 
-### 🚀 Проекты в фокусе
+### Проекты в фокусе
 
 - **[Django Catalog Web App](./) (Django, MySQL, Docker)** — веб-сайт/каталог товаров с ORM, панелью администратора и адаптивным интерфейсом.
 - **[Telegram Retail Store Bot](./) (Python, Aiogram 3, MySQL, Docker)** — асинхронный бот-магазин с каталогом, корзиной, админкой и уведомлениями.
 
 ---
 
-### 📬 Связь со мной
+### Связь со мной
 
 - **Telegram:** [@c0ba9](https://t.me/c0ba9)
 - **Email:** [lipskiynikita09@gmail.com](mailto:lipskiynikita09@gmail.com)
